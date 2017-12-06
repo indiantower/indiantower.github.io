@@ -24,3 +24,9 @@ footer p {
   font-size: 15px;
   ocpacity: .5;
 }
+
+button {
+  color: white;
+  background-color: black;
+  border: 2px dashed white;
+}
