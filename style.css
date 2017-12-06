@@ -8,4 +8,5 @@ header {
   font-size: 30px;
   height: 50px;
   border-bottom: 2px solid white;
+  margin-top: none;
 }
