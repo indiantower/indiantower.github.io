@@ -25,3 +25,9 @@ function getWinner() {
    }
    return 0;
 }
+
+function randomNum() {
+  let num = Math.floor(Math.Random() * 100);
+  document.write("Here's a random number between 0 and 100! --> " + num);
+  return 0;
+}
